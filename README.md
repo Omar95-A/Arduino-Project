@@ -31,7 +31,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - Liquid Soap
 - Code on the Arduino IDE program
 
-For more details about the project components you can read the [Project Report](https://github.com/Omar95-A/Arduino-Project/).
+For more details about the project components you can read the [Project Report](https://github.com/Omar95-A/Arduino-Project/blob/main/Project%20Report.pdf).
 
 ## How_The_Project_Works
 
