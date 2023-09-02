@@ -18,7 +18,7 @@
 - It's Software Engineering College Project. YMÜ338 Microprocessors and Programming (YMÜ338 Mikroişlemciler ve Programlama) Subject Project.
 
 ### Project Components
-#### Smart Hand Sanitizer Machine Project composed of Automatic Hand Sanitizer Dispenser using of:
+#### Smart Hand Sanitizer Machine Project composed of:
 - Arduino Uno board
 - Arduino Uno USB Cable
 - Large breadboard
