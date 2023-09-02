@@ -52,4 +52,17 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 
 ## Source_Code
 
+You need to include some of libraries in code like:
+
+- To use the Membrane Keypad:
+
+```bash
+#include <Keypad.h>
+```
+
+- To use the Servo Motor:
+
+```bash
+#include<Servo.h>
+```
 
