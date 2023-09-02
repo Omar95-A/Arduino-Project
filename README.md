@@ -7,7 +7,7 @@
 - [📄 About Project](#About)
 - [⚙️ How The Project Works](#Work)
 - [🖼️ Project Images](#Images)
-- [👩‍💻 Code](#code)
+- [👨‍💻 Code](#code)
 
 
 
