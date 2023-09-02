@@ -28,6 +28,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - 4X4 Membrane Keypad
 - Two LED
 - One Buzzer
+- Two Electrical Resistance
 - Liquid Soap
 - Code on the Arduino IDE program
 
