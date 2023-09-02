@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [📝 About Project](#About)
+- [📄 About Project](#About)
 - [⚙️ How The Project Works](#Work)
 - [🖼️ Project Images](#Images)
 - [👩‍💻 Code](#code)
