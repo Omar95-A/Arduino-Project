@@ -26,6 +26,8 @@ Smart Hand Sanitizer Machine Project composed of:
 - Distance sensor
 - Servo Motor
 - 4X4 Membrane Keypad
+- Two LED
+- One Buzzer
 - Liquid Soap
 - Code on the Arduino IDE program
 
