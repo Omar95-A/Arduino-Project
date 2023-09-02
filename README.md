@@ -40,7 +40,14 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 
 ## Project_Images
 
-- my Images
+<p align="center">
+    <table>
+        <tr>
+            <td><img src="" width="100"/></td>
+            <td><img src="" width="100"/></td>
+        </tr>
+    </table>
+</p>
 
 
 ## Source_Code
