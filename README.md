@@ -4,14 +4,14 @@
 
 ## Contents
 
-- [📄 About Project](#About)
+- [📄 About Project](#About_Project)
 - [⚙️ How The Project Works](#How_The_Project_Works)
-- [🖼️ Project Images](#Images)
-- [👨‍💻 Code](#code)
+- [🖼️ Project Images](#Project_Images)
+- [👨‍💻 Source Code](#Source_Code)
 
 
 
-## About
+## About_Project
 
 ### Intro
 
@@ -37,11 +37,11 @@ Smart Hand Sanitizer Machine Project composed of:
 When an analog signal is generated in front of the sensor, the servo motor will be instructed to move to a certain degree according to the code written in its program in the arduino IDE, while the Microcontroller is programmed on the Arduino board via the Arduino IDE program using a USB cable. When the Distance Sensor detects motion within the sensor area, it will use a Servo Motor to make a motion to press the liquid soap high part out to use it.
 
 
-## Images
+## Project_Images
 
 - my Images
 
 
-## Code
+## Source_Code
 
 - my code
