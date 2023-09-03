@@ -66,7 +66,7 @@ You need to include some of libraries in code like:
 #include<Servo.h>
 ```
 
-- To define the variables that we will use it for LED's and the buzzer:
+<br>
 
 ```bash
 #define ledr 6
