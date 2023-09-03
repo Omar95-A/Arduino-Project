@@ -43,7 +43,7 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 <p align="center">
     <table>
         <tr>
-            <td><img src="" width="100"/></td>
+            <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Arduino%203.JPG" width="100"/></td>
             <td><img src="" width="100"/></td>
         </tr>
     </table>
