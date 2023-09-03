@@ -69,8 +69,10 @@ You need to include some of libraries in code like:
 - To define the variables that we will use it for LED's and the buzzer:
 
 ```bash
-#define ledb 13
-#define ledr 12
-#define buzzer 10
+#define ledr 6
+#define ledb 7
+#define trig 8
+#define echo 9
+#define buzzer 12
 ```
 
