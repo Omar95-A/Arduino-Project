@@ -74,5 +74,10 @@ You need to include some of libraries in code like:
 #define trig 8
 #define echo 9
 #define buzzer 12
+
+void setup() {
+  // put your setup code here, to run once:
+
+}
 ```
 
