@@ -16,7 +16,7 @@
 
 ### Introduction
 
-Smart Hand Sanitizer Machine Project (Akıllı El Dezenfektan Makinesinin Projesi). It's Software Engineering College Project. YMÜ338 Microprocessors and Programming (YMÜ338 Mikroişlemciler ve Programlama) course project of the software engineering program at Firat University.
+In covid-19 pandemic period which is a global outbreak, hand hygiene is the core preventive measure in the spread of the disease with COVID-19 transmission mainly spreading between people through direct, indirect (through contaminated objects or surfaces), or close contact with infected people via mouth and nose secretions, washing hands with soap and running water is of critical importance. In order to eliminate most of the germs on the hands, one needs to apply a good hand washing practice but this will make the hand sanitizer dispenser to be contaminated.
 
 ### Project Components
 Smart Hand Sanitizer Machine Project composed of:
