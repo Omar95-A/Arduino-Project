@@ -48,8 +48,9 @@ When an analog signal is generated in front of the sensor, the servo motor will 
         <tr>
             <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Arduino%203.JPG" width="100"/></td>
             <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_01.jpg" width="100"/></td>
-            <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_02.jpg" width="100"/></td>
+            <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_04.png" width="100"/></td>
             <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_05.JPG" width="100"/></td>
+            <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_02.jpg" width="100"/></td>
             <td><img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/IMG_03.jpg" width="100"/></td>
         </tr>
     </table>
