@@ -16,7 +16,9 @@ char keys[ROWS][COLS] = {
   {'7','8','9','C'},
   {'*','0','#','D'}
 };
-byte rowPins[ROWS] = {A2, A3, A4, A5}; 
+byte rowPins[ROWS] = {A2, A3, A4, A5};
+byte colPins[COLS] = {5, 4, 3, 2};
+
 void setup() {
   // put your setup code here, to run once:
 
