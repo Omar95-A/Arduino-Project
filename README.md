@@ -82,6 +82,10 @@ You need to include some of libraries in code like:
 #define echo 9
 #define buzzer 12
 
+int kere=0;
+const byte ROWS = 4; 
+const byte COLS = 4; 
+
 void setup() {
   // put your setup code here, to run once:
 
