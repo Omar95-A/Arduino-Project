@@ -22,6 +22,8 @@ byte colPins[COLS] = {5, 4, 3, 2};
 Keypad keypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
 char pass[4];
 char storepass[]="1234";
+int i,count, pos = 0; 
+Servo myservo;
 
 void setup() {
   // put your setup code here, to run once:
