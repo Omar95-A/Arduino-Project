@@ -8,6 +8,7 @@
 - [📄 About Project](#About_Project)
 - [⚙️ How The Project Works](#How_The_Project_Works)
 - [🖼️ Project Images](#Project_Images)
+- [🖼️ Circuit Diagram](#Circuit_Diagram)
 - [👨‍💻 Source Code](#Source_Code)
 
 
@@ -60,6 +61,12 @@ When an analog signal is generated in front of the sensor, the servo motor will 
         </tr>
     </table>
 </p>
+
+
+## Circuit_Diagram
+
+<img src="" width="900"/>
+
 
 
 ## Source_Code
