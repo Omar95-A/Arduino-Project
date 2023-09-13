@@ -61,11 +61,11 @@ When an analog signal is generated in front of the sensor, the servo motor will 
         </tr>
     </table>
 </p>
-
+<br/>
 
 ## Circuit_Diagram
 
-<img src="" width="900"/>
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/New%20Project.png" width="900"/>
 
 
 
