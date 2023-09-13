@@ -34,7 +34,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - Two Electrical Resistance
 - Liquid Soap Box
 - Code on the Arduino IDE program
-<img src="" width="900"/>
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.png" width="900"/>
 
 For more details about the project components you can read the [Project Report](https://github.com/Omar95-A/Arduino-Project/blob/main/Project%20Report.pdf).
 
@@ -65,7 +65,7 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 
 ## Circuit_Diagram
 
-<img src="" width="900"/>
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Circuit%20Diagram%20(before).png" width="900"/>
 
 
 
