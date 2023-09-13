@@ -33,7 +33,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - Two Electrical Resistance
 - Liquid Soap Box
 - Code on the Arduino IDE program
-
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.jpg" width="900"/>
 For more details about the project components you can read the [Project Report](https://github.com/Omar95-A/Arduino-Project/blob/main/Project%20Report.pdf).
 
 ## How_The_Project_Works
