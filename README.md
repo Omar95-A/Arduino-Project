@@ -32,7 +32,8 @@ Smart Hand Sanitizer Machine Project composed of:
 - Two LED
 - One Buzzer
 - Two Electrical Resistance
-- Liquid Soap Box
+- Jump wire
+- Liquid Soap Bottle
 - Code on the Arduino IDE program
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.png" width="900"/>
 
