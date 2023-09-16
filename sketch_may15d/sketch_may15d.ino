@@ -32,6 +32,7 @@ void setup() {
   pinMode(ledr,OUTPUT);
   pinMode(buzzer,OUTPUT);
   Serial.begin(9600);
+  myservo.attach(11);
 
 }
 
