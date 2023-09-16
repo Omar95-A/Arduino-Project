@@ -118,7 +118,10 @@ int i,count, pos = 0;
 Servo myservo;
 
 void setup() {
-  // put your setup code here, to run once:
+  pinMode(trig,OUTPUT);
+  pinMode(echo,INPUT);
+  pinMode(ledb,OUTPUT);
+  pinMode(ledr,OUTPUT);
 
 }
 
