@@ -72,6 +72,9 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 - Ensure that all project components are present and arranged as below:
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project.png" width="900"/>
 
+- Connect the two LEDs and resistors to the Arduino board.
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(1).png" width="900"/>
+
 
 
 ## Source_Code
