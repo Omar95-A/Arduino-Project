@@ -8,7 +8,7 @@
 - [📄 About Project](#About_Project)
 - [⚙️ How The Project Works](#How_The_Project_Works)
 - [🖼️ Project Images](#Project_Images)
-- [🖼️ Circuit Diagram](#Circuit_Diagram)
+- [🔌 Circuit Diagram](#Circuit_Diagram)
 - [𓉧 Schematic Diagram](#Schematic_Diagram)
 - [👨‍💻 Source Code](#Source_Code)
 
