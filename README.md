@@ -128,8 +128,13 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
+  char key = keypad.getKey();
+    if (key && key!='D'){
+      Serial.print(key);
+      pass[i]=key;
+      i++;
+      }
 }
 ```
 
