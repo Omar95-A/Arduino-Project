@@ -122,7 +122,9 @@ void setup() {
   pinMode(echo,INPUT);
   pinMode(ledb,OUTPUT);
   pinMode(ledr,OUTPUT);
-
+  pinMode(buzzer,OUTPUT);
+  Serial.begin(9600);
+  myservo.attach(11);
 }
 
 void loop() {
