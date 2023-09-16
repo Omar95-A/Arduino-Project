@@ -28,6 +28,8 @@ Servo myservo;
 void setup() {
   pinMode(trig,OUTPUT);
   pinMode(echo,INPUT);
+  pinMode(ledb,OUTPUT);
+  pinMode(ledr,OUTPUT);
 
 }
 
