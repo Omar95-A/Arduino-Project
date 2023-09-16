@@ -65,7 +65,7 @@ When an analog signal is generated in front of the sensor, the servo motor will 
         </tr>
     </table>
 </p>
-<br/>
+<br>
 
 ## Circuit_Diagram
 
@@ -75,7 +75,9 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 
 
 ## Source_Code
-
+Project In Progress ⚙️ 
+> I am currently working on the project code to improve it, if you are excited about this project and want to work on your own arduino project, you can give me a star if there are a lot of people who want to see this project completed, I will work on this project more quickly.
+<br>
 You need to include some of libraries in code like:
 
 - To use the Membrane Keypad:
