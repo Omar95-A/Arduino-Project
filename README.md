@@ -9,6 +9,7 @@
 - [⚙️ How The Project Works](#How_The_Project_Works)
 - [🖼️ Project Images](#Project_Images)
 - [🖼️ Circuit Diagram](#Circuit_Diagram)
+- [𓉧 Schematic Diagram](#Schematic_Diagram)
 - [👨‍💻 Source Code](#Source_Code)
 
 
@@ -76,6 +77,12 @@ When an analog signal is generated in front of the sensor, the servo motor will 
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(1).png" width="900"/>
 
 
+
+<br>
+
+## Schematic_Diagram
+
+<br>
 
 ## Source_Code
 Project In Progress ⚙️ 
