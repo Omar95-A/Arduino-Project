@@ -31,7 +31,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - 4X4 Membrane Keypad
 - Two LED
 - One Buzzer
-- Two Electrical Resistance
+- Two Resistance
 - Jump wire
 - Liquid Soap Bottle
 - Cardboard Pieces
