@@ -1,7 +1,8 @@
 # Arduino Project
 
 > Smart Hand Sanitizer Machine Project (Akıllı El Dezenfektan Makinesinin Projesi). It's Software Engineering College Project. YMÜ338 Microprocessors and Programming (YMÜ338 Mikroişlemciler ve Programlama) course project of the software engineering program at Firat University.
-> Project In Progress ⚙️
+
+Project In Progress ⚙️
 
 ## Contents
 
