@@ -40,7 +40,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - Code on the Arduino IDE program
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.png" width="900"/>
 
-For more details about the project components you can read the [Project Report](https://github.com/Omar95-A/Arduino-Project/blob/main/Project%20Report.pdf).
+For more details about the project components [List of project components](https://github.com/Omar95-A/Arduino-Project/blob/main/img/Component%20List.png).
 
 ## Working_Principle
 
