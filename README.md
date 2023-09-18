@@ -26,9 +26,9 @@ The main objective of this project is to work on a smart hand sanitizer machine 
 
 ### Project Components
 Smart Hand Sanitizer Machine Project composed of:
-- Arduino Uno board
+- Arduino Uno
 - Arduino Uno USB Cable
-- Large breadboard
+- Breadboard
 - Distance sensor
 - Servo Motor
 - 4X4 Membrane Keypad
