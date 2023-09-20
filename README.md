@@ -13,6 +13,7 @@ Project In Progress ⚙️
 - [🔌 Circuit Diagram](#Circuit_Diagram)
 - [𓉧 Schematic Diagram](#Schematic_Diagram)
 - [👨‍💻 Source Code](#Source_Code)
+- [👨‍💻 References](#References)
 
 
 
@@ -156,4 +157,9 @@ void loop() {
       }
 }
 ```
+
+<br>
+
+## References
+
 
