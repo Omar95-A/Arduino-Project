@@ -22,7 +22,7 @@ Project In Progress ⚙️
 
 In covid-19 pandemic period which is a global outbreak, hand hygiene is the core preventive measure in the spread of the disease with COVID-19 transmission mainly spreading between people through direct, indirect (through contaminated objects or surfaces), or close contact with infected people via mouth and nose secretions, washing hands with soap and running water is of critical importance. In order to eliminate most of the germs on the hands, one needs to apply a good hand washing practice but this will make the hand sanitizer dispenser to be contaminated.
 <br><br>
-The main objective of this project is to work on a smart hand sanitizer machine that this machine work without touching a liquid soap box, in order to reduce the spread of the covid-19 virus. The method used to achieve the objectives of this project is by using the Arduino. In addition to the way the smart hand sanitizer machine  works by means of a sensor, I will also add to this project the possibility of working a this machine based on a password to learn how to work passwords with machines b using Arduino.
+The main objective of this project is to work on a smart hand sanitizer machine that this machine work without touching a liquid soap bottle, in order to reduce the spread of the covid-19 virus. The method used to achieve the objectives of this project is by using the Arduino. In addition to the way the smart hand sanitizer machine  works by means of a sensor, I will also add to this project the possibility of working a this machine based on a password to learn how to work passwords with machines b using Arduino.
 
 ### Project Components
 Smart Hand Sanitizer Machine Project composed of:
