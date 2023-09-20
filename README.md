@@ -51,7 +51,7 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 <br>
 
 ## Flowchart
-<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Flowchart.png" width="900"/>
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Flowchart%20-1.png" width="900"/>
 <br>
 
 ## Project_Images
