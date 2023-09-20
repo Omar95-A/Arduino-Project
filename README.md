@@ -8,9 +8,9 @@ Project In Progress ⚙️
 
 - [📄 About Project](#About_Project)
 - [⚙️ Working Principle](#Working_Principle)
+- [📈 Flowchart](#Flowchart)
 - [🖼️ Project Images](#Project_Images)
 - [🔌 Circuit Diagram](#Circuit_Diagram)
-- [📈 Flowchart](#Flowchart)
 - [𓉧 Schematic Diagram](#Schematic_Diagram)
 - [👨‍💻 Source Code](#Source_Code)
 
@@ -47,6 +47,11 @@ For more details about the project components [List of project components](https
 
 Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasonic sensor detects it. The signal from the ultrasonic sensor is then processed and obtained in the Arduino Microcontroller. Then  Arduino will send an output signal to the motor driver, LEDs and Buzzer. Also Servo Motor will make a motion to press the liquid soap bottle high part out to use it. In addition to the way the smart hand sanitizer machine works by means of a sensor, I will also add to this project the possibility of working a this machine based on a password to learn how to work passwords with machines b using Arduino. When the correct password is entered, the Servo Motor will start and the blue LED will turn on. If the password is wrong, the red LED and the buzzer will turn on.
 
+<br>
+
+## Flowchart
+
+<br>
 
 ## Project_Images
 
@@ -79,10 +84,6 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(1).png" width="900"/>
 
 
-
-<br>
-
-## Flowchart
 
 <br>
 
