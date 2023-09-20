@@ -1,4 +1,4 @@
-# Arduino Project
+# Arduino Project <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Arduino_Logo.svg.png" width="50"/>
 
 > Smart Hand Sanitizer Machine Project (Akıllı El Dezenfektan Makinesinin Projesi). It's Software Engineering College Project. YMÜ338 Microprocessors and Programming (YMÜ338 Mikroişlemciler ve Programlama) course project of the software engineering program at Firat University.
 
