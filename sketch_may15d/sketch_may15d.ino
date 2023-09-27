@@ -51,7 +51,12 @@ void loop() {
             count++;
           }
         }
-
+        if(count==4){
+           kere++;
+          Serial.print("\nŞifre Doğru, Basım sayısı= ");
+          Serial.print(kere);
+          Serial.println(" kere");        
+        }
       }
     }
 }
