@@ -81,10 +81,10 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 - Ensure that all project components are present and placement as follows:
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project.png" width="900"/>
 
-- Insert the LEDs + resistors into the Arduino. Make sure the longer leg of the LED is to the right, connected to the resistor. The resistor doesn't have a direction, so it doesnt matter which way it goes in, and short leg to GND.
+- Insert the LEDs and resistors into the Arduino. Make sure the longer leg of the LED is to the right, connected to the resistor. The resistor doesn't have a direction, so it doesnt matter which way it goes in, and short leg to GND.
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(1).png" width="900"/>
 
-- Insert the distance sensor and buzzer into the Arduino.
+- Insert the ultrasonic distance sensor and buzzer into the Arduino.
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(2).png" width="900"/>
 
 
