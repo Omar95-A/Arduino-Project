@@ -178,6 +178,10 @@ void loop() {
     delay(1);
     
   }
+          delay(1000);
+          i=0;
+          count=0;
+
         }
       }
     }
