@@ -55,7 +55,15 @@ void loop() {
            kere++;
           Serial.print("\nŞifre Doğru, Basım sayısı= ");
           Serial.print(kere);
-          Serial.println(" kere");        
+          Serial.println(" kere");
+          for (pos = 0; pos <= 540 ; pos += 1)
+  {
+    myservo.write(pos);
+    digitalWrite(ledb,HIGH);
+  
+    delay(1);
+    
+  }   
         }
       }
     }
