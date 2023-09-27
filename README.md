@@ -157,7 +157,22 @@ void loop() {
       Serial.print(key);
       pass[i]=key;
       i++;
+      }else if(key=='D')
+    {
+      if(i==4){
+        for(int j=0;j<4;j++){
+          if(pass[j]==storepass[j]){
+            count++;
+          }
+        }
+        if(count==4){
+           kere++;
+          Serial.print("\nŞifre Doğru, Basım sayısı= ");
+          Serial.print(kere);
+          Serial.println(" kere");      
+        }
       }
+    }
 }
 ```
 
