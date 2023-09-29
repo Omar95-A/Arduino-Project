@@ -197,5 +197,6 @@ void loop() {
 - To learn the basics of Arduino or electronics you can learn from the [arduino.cc](https://docs.arduino.cc/hardware/uno-rev3) it's very useful.
 - [Arduino Course for Beginners - Open-Source Electronics Platform.](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
 - [JavaTpoint](https://www.javatpoint.com/arduino) provides Arduino Tutorial.
+- I created circuit diagram, schematic diagram of the project and I learned more about electronics with [Tinkercad](https://www.tinkercad.com/things/30m5I481pNB) is a free web app for 3D design, electronics, and coding, trusted by over 50 million people around the World.
 
 <br>
