@@ -90,8 +90,6 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 - Insert the servo motor and keypad into the Arduino.
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Smart%20Hand%20Sanitizer%20Machine%20Project%20(3).png" width="900"/>
 
-
-
 <br>
 
 ## Schematic_Diagram
