@@ -39,7 +39,7 @@ Smart Hand Sanitizer Machine Project composed of:
 - Jump wire
 - Liquid Soap Bottle
 - Cardboard Pieces
-- Code on the Arduino IDE program
+- Code on the Arduino IDE
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.png" width="900"/>
 
 For more details about the project components [List of project components](https://github.com/Omar95-A/Arduino-Project/blob/main/img/Component%20List.png).
