@@ -194,7 +194,7 @@ void loop() {
 ## References
 
 - WHO Guidelines on Hand Hygiene in Health Care [World Health Organization](https://www.who.int/teams/integrated-health-services/patient-safety).
-- https://docs.arduino.cc/hardware/uno-rev3
+- To learn the basics of Arduino or electronics you can learn from the [arduino.cc](https://docs.arduino.cc/hardware/uno-rev3) it's very useful.
 - https://www.youtube.com/watch?v=zJ-LqeX_fLU
 - https://www.javatpoint.com/arduino
 
