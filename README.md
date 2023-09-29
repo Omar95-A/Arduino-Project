@@ -95,7 +95,7 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 <br>
 
 ## Schematic_Diagram
-
+<img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Schematic%20Diagram.jpg" width="900"/>
 <br>
 
 ## Source_Code
