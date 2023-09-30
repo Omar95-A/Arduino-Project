@@ -179,6 +179,14 @@ void loop() {
     delay(1);
     
   }
+  delay(100);
+  for (pos = 540; pos >= 0; pos -= 1)
+  {
+    myservo.write(pos);
+    digitalWrite(ledb,LOW);
+    
+    delay(1);
+  }
           delay(1000);
           i=0;
           count=0;
