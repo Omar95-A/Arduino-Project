@@ -200,7 +200,17 @@ void loop() {
         i=0;
         count=0;
         }
-      }
+      }else {
+        Serial.println("\nŞifre Yanlış, lutfen tekrar deneyin ");
+        digitalWrite(ledr,HIGH);
+        digitalWrite(buzzer,HIGH);
+        delay(1000);
+        digitalWrite(ledr,LOW);
+        digitalWrite(buzzer,LOW);
+        i=0;
+        count=0;
+          
+        }
     }
 }
 ```
