@@ -133,3 +133,14 @@ void loop() {
 }
 
 }
+
+int calc_dis()
+{
+  int duration,distance;
+  digitalWrite(trig,HIGH);
+  delay(10);
+  digitalWrite(trig,LOW);
+  duration=pulseIn(echo,HIGH);
+  distance = (duration/2) / 29.1;
+  return distance;
+}
