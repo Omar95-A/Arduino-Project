@@ -97,7 +97,6 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
 
 ## Source_Code
 
-> Project In Progress ⚙️ 
 <br>
 You need to include some of libraries in code like:
 
@@ -233,6 +232,17 @@ void loop() {
   Serial.print("Basım sayısı= ");
   Serial.print(kere);
   Serial.println(" kere");
+  for (pos = 540; pos >= 0; pos -= 1)
+  {
+    myservo.write(pos);
+    digitalWrite(ledb,LOW);
+    digitalWrite(buzzer,LOW);
+    digitalWrite(ledr,HIGH);
+    
+    delay(1);
+  }
+  
+  delay(100);
 
 }
 
