@@ -98,4 +98,22 @@ void loop() {
           
         }
     }
+
+    
+    
+    
+       if (calc_dis()<10)
+{
+  for (pos = 0; pos <= 540 ; pos += 1)
+  {
+    myservo.write(pos);
+    digitalWrite(ledb,HIGH);
+    digitalWrite(buzzer,HIGH);
+    digitalWrite(ledr,LOW);
+    delay(1);
+    
+    
+  }
+}
+
 }
