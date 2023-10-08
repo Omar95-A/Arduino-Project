@@ -119,7 +119,17 @@ void loop() {
   Serial.print("Basım sayısı= ");
   Serial.print(kere);
   Serial.println(" kere");
+  for (pos = 540; pos >= 0; pos -= 1)
+  {
+    myservo.write(pos);
+    digitalWrite(ledb,LOW);
+    digitalWrite(buzzer,LOW);
+    digitalWrite(ledr,HIGH);
+    
+    delay(1);
+  }
   
+  delay(100);
 }
 
 }
