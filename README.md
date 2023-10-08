@@ -228,6 +228,12 @@ void loop() {
     
     
   }
+  delay(100);
+  kere++;
+  Serial.print("Basım sayısı= ");
+  Serial.print(kere);
+  Serial.println(" kere");
+
 }
 
 }
