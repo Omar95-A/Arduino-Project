@@ -14,7 +14,7 @@
 - [👨‍💻 Source Code](#Source_Code)
 - [📚 References](#References)
 
-
+<br>
 
 ## About_Project
 
@@ -42,6 +42,8 @@ Smart Hand Sanitizer Machine Project composed of:
 <img src="https://github.com/Omar95-A/Arduino-Project/blob/main/img/Project%20Components.png" width="900"/>
 
 For more details about the project components [List of project components](https://github.com/Omar95-A/Arduino-Project/blob/main/img/Component%20List.png).
+
+<br>
 
 ## Working_Principle
 
@@ -73,6 +75,7 @@ Whenever the user puts his/her hand at a distance less than 10 cm, the ultrasoni
         </tr>
     </table>
 </p>
+
 <br>
 
 ## Circuit_Diagram
